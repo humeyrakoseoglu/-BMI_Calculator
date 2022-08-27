@@ -20,8 +20,9 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 
 ##Screenshots:
 ### Sample For Female:
-<img src="https://user-images.githubusercontent.com/71442681/187049535-2698ca57-39ba-4b54-b8ca-ed6fd0f06397.jpeg" width="250" height="500">
 <img src="https://user-images.githubusercontent.com/71442681/187049534-180ac75b-d023-42ec-a0b9-63961f808d63.jpeg" width="250" height="500">
+
+<img src="https://user-images.githubusercontent.com/71442681/187049535-2698ca57-39ba-4b54-b8ca-ed6fd0f06397.jpeg" width="250" height="500">
 
 ### Sample For Male:
 <img src="https://user-images.githubusercontent.com/71442681/187049519-1f486f59-7f8d-4b61-bda4-0ff767900715.jpeg" width="250" height="500">
